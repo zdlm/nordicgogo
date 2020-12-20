@@ -7,8 +7,6 @@ $ npm install
 ```
 
 ---
-title: Commands
----
 
 ## init
 
